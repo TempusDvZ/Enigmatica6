@@ -8663,6 +8663,102 @@
       "installedTargets": null
     },
     {
+      "addonID": 421104,
+      "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
+      "installedFile": {
+        "id": 3246266,
+        "displayName": "ae2extras-1.3-1.16.5.jar",
+        "fileName": "ae2extras-1.3-1.16.5.jar",
+        "fileDate": "2021-03-20T23:36:46.17Z",
+        "fileLength": 165846,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3246/266/ae2extras-1.3-1.16.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 223794,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2527260354,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "tfar",
+            "fingerprint": 845300083,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ae2extras.mixins.json",
+            "fingerprint": 4210039861,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 497721063,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2211912898,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 4253522632,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ae2extras.refmap.json",
+            "fingerprint": 1493072104,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3315512513,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ae2extras-1.3-1.16.5.jar"
+      },
+      "dateInstalled": "2021-09-03T21:37:30.3425229Z",
+      "dateUpdated": "2021-09-03T21:37:30.3485567Z",
+      "dateLastUpdateAttempted": "2021-09-03T21:37:30.3485567Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 340583,
       "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
       "installedFile": {
