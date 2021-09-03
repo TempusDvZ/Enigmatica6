@@ -1256,6 +1256,105 @@
       "installedTargets": null
     },
     {
+      "addonID": 241665,
+      "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
+      "installedFile": {
+        "id": 3385312,
+        "displayName": "Psi 1.16-95.jar",
+        "fileName": "Psi 1.16-95.jar",
+        "fileDate": "2021-07-11T21:12:00.583Z",
+        "fileLength": 2156517,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3385/312/Psi 1.16-95.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306770,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2874628057,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "vazkii",
+            "fingerprint": 2110928581,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3470568502,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1845518264,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3603840603,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "psi.mixins.json",
+            "fingerprint": 803513124,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "psi.refmap.json",
+            "fingerprint": 1235671071,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3140514861,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Psi 1.16-95.jar"
+      },
+      "dateInstalled": "2021-09-03T21:41:18.3620919Z",
+      "dateUpdated": "2021-09-03T21:41:18.4161152Z",
+      "dateLastUpdateAttempted": "2021-09-03T21:41:18.4161152Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 396019,
       "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
       "installedFile": {
@@ -3079,6 +3178,84 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 405076,
+      "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
+      "installedFile": {
+        "id": 3445195,
+        "displayName": "EpicFightMod-1.16.5-5.0.4.jar",
+        "fileName": "EpicFightMod-1.16.5-5.0.4.jar",
+        "fileDate": "2021-08-31T19:47:26.393Z",
+        "fileLength": 4158294,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3445/195/EpicFightMod-1.16.5-5.0.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 347163703,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "maninhouse",
+            "fingerprint": 3606269248,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2630691943,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4260371662,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1438559181,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1391125850,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "EpicFightMod-1.16.5-5.0.4.jar"
+      },
+      "dateInstalled": "2021-09-03T21:41:40.5526351Z",
+      "dateUpdated": "2021-09-03T21:41:40.6556366Z",
+      "dateLastUpdateAttempted": "2021-09-03T21:41:40.6556366Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 478898,
@@ -7275,6 +7452,121 @@
       "installedTargets": null
     },
     {
+      "addonID": 324813,
+      "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
+      "installedFile": {
+        "id": 3404863,
+        "displayName": "psipherals-1.4.1.jar",
+        "fileName": "psipherals-1.4.1.jar",
+        "fileDate": "2021-07-29T04:09:26.343Z",
+        "fileLength": 312039,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3404/863/psipherals-1.4.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 306770,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 309927,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 241665,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2165692823,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1860168194,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3328380564,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1956378387,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 162668265,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1934069148,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "psipherals.mixins.json",
+            "fingerprint": 926839123,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "psipherals.refmap.json",
+            "fingerprint": 2682443028,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3411433534,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "psipherals-1.4.1.jar"
+      },
+      "dateInstalled": "2021-09-03T21:41:35.1246309Z",
+      "dateUpdated": "2021-09-03T21:41:35.1366308Z",
+      "dateLastUpdateAttempted": "2021-09-03T21:41:35.1366308Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 282313,
       "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
       "installedFile": {
@@ -7357,6 +7649,133 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 396405,
+      "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
+      "installedFile": {
+        "id": 3388248,
+        "displayName": "magipsi-1.16.5-2.0.0.1.jar",
+        "fileName": "magipsi-1.16.5-2.0.0.1.jar",
+        "fileDate": "2021-07-14T06:10:09.837Z",
+        "fileLength": 1665506,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3388/248/magipsi-1.16.5-2.0.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 3388249,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 241665,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 306770,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1626724731,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "top",
+            "fingerprint": 2581783969,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 818322978,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "CHANGELOG.md",
+            "fingerprint": 2170838928,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4091787232,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "licenses",
+            "fingerprint": 529462205,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "magipsi.mixins.json",
+            "fingerprint": 1069834905,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "magipsi_icon.png",
+            "fingerprint": 4040417012,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3536742195,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "README.md",
+            "fingerprint": 624440606,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "magipsi.refmap.json",
+            "fingerprint": 3000862296,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 486211551,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "magipsi-1.16.5-2.0.0.1.jar"
+      },
+      "dateInstalled": "2021-09-03T21:41:52.004229Z",
+      "dateUpdated": "2021-09-03T21:41:52.0472266Z",
+      "dateLastUpdateAttempted": "2021-09-03T21:41:52.0472266Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 233105,
@@ -31938,6 +32357,97 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 455998,
+      "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
+      "installedFile": {
+        "id": 3276530,
+        "displayName": "epicpsi-1.3.jar",
+        "fileName": "epicpsi-1.3.jar",
+        "fileDate": "2021-04-15T02:14:17.143Z",
+        "fileLength": 182732,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3276/530/epicpsi-1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 405076,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 241665,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1063070095,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "co",
+            "fingerprint": 1884099752,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 521521077,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 491415654,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3284920461,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 641605527,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "epicpsi-1.3.jar"
+      },
+      "dateInstalled": "2021-09-03T21:41:41.4700813Z",
+      "dateUpdated": "2021-09-03T21:41:41.4770818Z",
+      "dateLastUpdateAttempted": "2021-09-03T21:41:41.4770818Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 245755,
