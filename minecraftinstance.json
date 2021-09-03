@@ -48,7 +48,7 @@
   "cachedScans": [],
   "isValid": true,
   "lastPreviousMatchUpdate": "2021-09-03T21:43:17.8538874Z",
-  "lastRefreshAttempt": "2021-09-03T22:43:18.9226302+01:00",
+  "lastRefreshAttempt": "2021-09-03T22:53:51.9018142+01:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -34381,89 +34381,6 @@
       "dateInstalled": "2021-09-03T21:40:57.5341262Z",
       "dateUpdated": "2021-09-03T21:40:57.5431261Z",
       "dateLastUpdateAttempted": "2021-09-03T21:40:57.5431261Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 270441,
-      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
-      "installedFile": {
-        "id": 3285730,
-        "displayName": "ItemPhysicLite_v1.4.8_mc1.16.5.jar",
-        "fileName": "ItemPhysicLite_v1.4.8_mc1.16.5.jar",
-        "fileDate": "2021-04-22T18:20:15.35Z",
-        "fileLength": 16858,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3285/730/ItemPhysicLite_v1.4.8_mc1.16.5.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "team",
-            "fingerprint": 1106680271,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "itemphysic.png",
-            "fingerprint": 1928949021,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 553130841,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1803949057,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 4169723611,
-        "gameVersion": [
-          "1.16.5"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000016.0000000005",
-            "gameVersion": "1.16.5",
-            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
-            "gameVersionName": "1.16.5"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2277912,
-        "projectId": 270441,
-        "packageFingerprintId": 648620073,
-        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
-        "gameVersionMappingId": 2883855,
-        "gameVersionId": 8203,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "ItemPhysicLite_v1.4.8_mc1.16.5.jar"
-      },
-      "dateInstalled": "2021-09-03T21:43:18.6850908Z",
-      "dateUpdated": "2021-09-03T21:43:18.6850908Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
