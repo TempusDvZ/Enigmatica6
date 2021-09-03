@@ -34624,6 +34624,78 @@
       "installedTargets": null
     },
     {
+      "addonID": 69118,
+      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
+      "installedFile": {
+        "id": 3215383,
+        "displayName": "Morpheus-1.16.5-4.2.70.jar",
+        "fileName": "Morpheus-1.16.5-4.2.70.jar",
+        "fileDate": "2021-02-24T13:10:43.58Z",
+        "fileLength": 24390,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3215/383/Morpheus-1.16.5-4.2.70.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1113630749,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 1565500129,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 407958785,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 462080067,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2731782916,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Morpheus-1.16.5-4.2.70.jar"
+      },
+      "dateInstalled": "2021-09-03T22:01:10.9368598Z",
+      "dateUpdated": "2021-09-03T22:01:10.958022Z",
+      "dateLastUpdateAttempted": "2021-09-03T22:01:10.958022Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 377835,
       "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
       "installedFile": {
