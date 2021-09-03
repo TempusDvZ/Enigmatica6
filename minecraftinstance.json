@@ -33245,6 +33245,105 @@
       "installedTargets": null
     },
     {
+      "addonID": 78057,
+      "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
+      "installedFile": {
+        "id": 3365302,
+        "displayName": "TMechworks-1.16.3+-2.2.5.jar",
+        "fileName": "TMechworks-1.16.3+-2.2.5.jar",
+        "fileDate": "2021-06-26T10:44:25.207Z",
+        "fileLength": 317190,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3365/302/TMechworks-1.16.3+-2.2.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 74924,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1313598570,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "slimeknights",
+            "fingerprint": 4115701778,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 590803555,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1208988160,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3354479447,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 873269063,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "TMechworks.png",
+            "fingerprint": 3214583080,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3555138601,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "TMechworks-1.16.3+-2.2.5.jar"
+      },
+      "dateInstalled": "2021-09-03T21:40:57.5341262Z",
+      "dateUpdated": "2021-09-03T21:40:57.5431261Z",
+      "dateLastUpdateAttempted": "2021-09-03T21:40:57.5431261Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 465066,
       "gameInstanceID": "4350bd52-8fe5-4041-9f80-6fd9c475f415",
       "installedFile": {
