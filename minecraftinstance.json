@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-09-03T12:56:02.1328059Z",
-  "playedCount": 308,
+  "lastPlayed": "2021-09-03T13:15:55.9627336Z",
+  "playedCount": 309,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -30981,6 +30981,83 @@
       "installedTargets": null
     },
     {
+      "addonID": 478898,
+      "gameInstanceID": "39570e1e-62ac-4c7f-ac23-20d41f2b5a3a",
+      "installedFile": {
+        "id": 3388866,
+        "displayName": "create-addon-v5.jar",
+        "fileName": "create-addon-v5.jar",
+        "fileDate": "2021-07-14T19:45:04.2Z",
+        "fileLength": 75117,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3388/866/create-addon-v5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 112344129,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 4212982377,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4109955519,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 891116629,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 4220733054,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3248501046,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2021-01-15T14:14:48.91Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "create-addon-v5.jar"
+      },
+      "dateInstalled": "2021-09-03T20:53:29.3339934Z",
+      "dateUpdated": "2021-09-03T20:53:29.3379933Z",
+      "dateLastUpdateAttempted": "2021-09-03T20:53:29.3379933Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 419699,
       "gameInstanceID": "39570e1e-62ac-4c7f-ac23-20d41f2b5a3a",
       "installedFile": {
@@ -33922,6 +33999,127 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 439890,
+      "gameInstanceID": "39570e1e-62ac-4c7f-ac23-20d41f2b5a3a",
+      "installedFile": {
+        "id": 3447171,
+        "displayName": "createaddition-1.16.5-20210902a",
+        "fileName": "createaddition-1.16.5-20210902a.jar",
+        "fileDate": "2021-09-02T15:42:28.287Z",
+        "fileLength": 768793,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3447/171/createaddition-1.16.5-20210902a.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 231951,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 328085,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 486392,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 282001,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2489544734,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 507617408,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1056481105,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "createaddition.mixins.json",
+            "fingerprint": 128980934,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "createaddition.refmap.json",
+            "fingerprint": 2227455800,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2940640894,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1438559181,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3463574246,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "createaddition-1.16.5-20210902a.jar"
+      },
+      "dateInstalled": "2021-09-03T20:52:05.2667986Z",
+      "dateUpdated": "2021-09-03T20:52:05.2877952Z",
+      "dateLastUpdateAttempted": "2021-09-03T20:52:05.2877952Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 232131,
