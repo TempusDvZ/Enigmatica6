@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-09-03T12:49:04.1587916Z",
-  "playedCount": 307,
+  "lastPlayed": "2021-09-03T12:56:02.1328059Z",
+  "playedCount": 308,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -8895,6 +8895,89 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 499631,
+      "gameInstanceID": "965be41e-0584-4b35-9c9a-4efa04c29c1f",
+      "installedFile": {
+        "id": 3446597,
+        "displayName": "crimsonchickens-1.0.2.jar",
+        "fileName": "crimsonchickens-1.0.2.jar",
+        "fileDate": "2021-09-01T23:38:39.19Z",
+        "fileLength": 363936,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3446/597/crimsonchickens-1.0.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1764585766,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "crimsonfluff",
+            "fingerprint": 3243457828,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 870678245,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 531357840,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 1879151293,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2986135601,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1606771758,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "crimsonchickens-1.0.2.jar"
+      },
+      "dateInstalled": "2021-09-03T12:55:41.5660819Z",
+      "dateUpdated": "2021-09-03T12:55:41.5820798Z",
+      "dateLastUpdateAttempted": "2021-09-03T12:55:41.5820798Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 374529,
