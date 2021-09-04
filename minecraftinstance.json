@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-09-03T22:18:45.9045793Z",
-  "playedCount": 311,
+  "lastPlayed": "2021-09-03T23:28:29.7707866Z",
+  "playedCount": 313,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -47,8 +47,8 @@
   "name": "Enigmatica 6",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-09-03T21:43:17.8538874Z",
-  "lastRefreshAttempt": "2021-09-03T23:13:28.8020269+01:00",
+  "lastPreviousMatchUpdate": "2021-09-03T22:30:26.4872021Z",
+  "lastRefreshAttempt": "2021-09-03T23:41:46.4537656+01:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -3255,6 +3255,85 @@
       "dateUpdated": "2021-07-05T20:20:52.5333929Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 391640,
+      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
+      "installedFile": {
+        "id": 3119850,
+        "displayName": "xlpackets-1.1.jar",
+        "fileName": "xlpackets-1.1.jar",
+        "fileDate": "2020-11-22T16:15:37.707Z",
+        "fileLength": 3773,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3119/850/xlpackets-1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4292946868,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "tfar",
+            "fingerprint": 458228273,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 676596830,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "xlpackets.mixins.json",
+            "fingerprint": 951558324,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "xlpackets.refmap.json",
+            "fingerprint": 859599971,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2179811764,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2020-09-10T14:44:20.443Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "xlpackets-1.1.jar"
+      },
+      "dateInstalled": "2021-09-03T23:24:38.5424788Z",
+      "dateUpdated": "2021-09-03T23:24:38.548481Z",
+      "dateLastUpdateAttempted": "2021-09-03T23:24:38.548481Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -34699,6 +34778,97 @@
       "installedTargets": null
     },
     {
+      "addonID": 299540,
+      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
+      "installedFile": {
+        "id": 3172796,
+        "displayName": "FastFurnace-1.16.4-4.4.0.jar",
+        "fileName": "FastFurnace-1.16.4-4.4.0.jar",
+        "fileDate": "2021-01-18T18:21:32.303Z",
+        "fileLength": 14614,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3172/796/FastFurnace-1.16.4-4.4.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 54704741,
+            "addonId": 283644,
+            "type": 3,
+            "fileId": 3172796
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1787013860,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "shadows",
+            "fingerprint": 3254850185,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 135111852,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3123588329,
+        "gameVersion": [
+          "1.16.5",
+          "1.16.4"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000005",
+            "gameVersion": "1.16.5",
+            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+            "gameVersionName": "1.16.5"
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000004",
+            "gameVersion": "1.16.4",
+            "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+            "gameVersionName": "1.16.4"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2131821,
+        "projectId": 299540,
+        "packageFingerprintId": 588539612,
+        "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
+        "gameVersionMappingId": 2654347,
+        "gameVersionId": 8134,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "FastFurnace-1.16.4-4.4.0.jar"
+      },
+      "dateInstalled": "2021-07-05T20:21:18.9770646Z",
+      "dateUpdated": "2021-07-05T20:21:18.9770646Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 377835,
       "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
       "installedFile": {
@@ -34785,97 +34955,6 @@
       "dateInstalled": "2021-07-14T17:10:41.8904496Z",
       "dateUpdated": "2021-07-14T17:10:41.9044492Z",
       "dateLastUpdateAttempted": "2021-07-14T17:10:41.9044492Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 299540,
-      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
-      "installedFile": {
-        "id": 3172796,
-        "displayName": "FastFurnace-1.16.4-4.4.0.jar",
-        "fileName": "FastFurnace-1.16.4-4.4.0.jar",
-        "fileDate": "2021-01-18T18:21:32.303Z",
-        "fileLength": 14614,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3172/796/FastFurnace-1.16.4-4.4.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 54704741,
-            "addonId": 283644,
-            "type": 3,
-            "fileId": 3172796
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1787013860,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "shadows",
-            "fingerprint": 3254850185,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 135111852,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3123588329,
-        "gameVersion": [
-          "1.16.5",
-          "1.16.4"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000016.0000000005",
-            "gameVersion": "1.16.5",
-            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
-            "gameVersionName": "1.16.5"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000016.0000000004",
-            "gameVersion": "1.16.4",
-            "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
-            "gameVersionName": "1.16.4"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2131821,
-        "projectId": 299540,
-        "packageFingerprintId": 588539612,
-        "gameVersionDateReleased": "2020-11-02T18:40:51.49Z",
-        "gameVersionMappingId": 2654347,
-        "gameVersionId": 8134,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "FastFurnace-1.16.4-4.4.0.jar"
-      },
-      "dateInstalled": "2021-07-05T20:21:18.9770646Z",
-      "dateUpdated": "2021-07-05T20:21:18.9770646Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -37238,6 +37317,115 @@
       "installedTargets": null
     },
     {
+      "addonID": 362393,
+      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
+      "installedFile": {
+        "id": 3249309,
+        "displayName": "Atmospheric 1.16.5 - 3.1.0",
+        "fileName": "atmospheric-1.16.5-3.1.0.jar",
+        "fileDate": "2021-03-23T23:17:33.693Z",
+        "fileLength": 1527658,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3249/309/atmospheric-1.16.5-3.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 59801256,
+            "addonId": 382216,
+            "type": 3,
+            "fileId": 3249309
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3564679160,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3503516366,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1135583533,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2657682908,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 2550136508,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1611599056,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3579867340,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000016.0000000005",
+            "gameVersion": "1.16.5",
+            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+            "gameVersionName": "1.16.5"
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2231843,
+        "projectId": 362393,
+        "packageFingerprintId": 630899680,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 2814140,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "atmospheric-1.16.5-3.1.0.jar"
+      },
+      "dateInstalled": "2021-07-05T20:31:05.1753943Z",
+      "dateUpdated": "2021-07-05T20:31:05.1753943Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 402659,
       "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
       "installedFile": {
@@ -37350,115 +37538,6 @@
       "dateUpdated": "2021-09-03T12:36:46.4796211Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 362393,
-      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
-      "installedFile": {
-        "id": 3249309,
-        "displayName": "Atmospheric 1.16.5 - 3.1.0",
-        "fileName": "atmospheric-1.16.5-3.1.0.jar",
-        "fileDate": "2021-03-23T23:17:33.693Z",
-        "fileLength": 1527658,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3249/309/atmospheric-1.16.5-3.1.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 59801256,
-            "addonId": 382216,
-            "type": 3,
-            "fileId": 3249309
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3564679160,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3503516366,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1135583533,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2657682908,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 2550136508,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1611599056,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3579867340,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000016.0000000005",
-            "gameVersion": "1.16.5",
-            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
-            "gameVersionName": "1.16.5"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Forge"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2231843,
-        "projectId": 362393,
-        "packageFingerprintId": 630899680,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 2814140,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "atmospheric-1.16.5-3.1.0.jar"
-      },
-      "dateInstalled": "2021-07-05T20:31:05.1753943Z",
-      "dateUpdated": "2021-07-05T20:31:05.1753943Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
