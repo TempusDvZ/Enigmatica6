@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-09-04T22:46:00.447729Z",
-  "playedCount": 317,
+  "lastPlayed": "2021-09-05T19:07:40.2027419Z",
+  "playedCount": 320,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -47,8 +47,8 @@
   "name": "Enigmatica 6",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-09-04T23:13:19.7754728Z",
-  "lastRefreshAttempt": "2021-09-05T00:18:03.039395+01:00",
+  "lastPreviousMatchUpdate": "2021-09-05T13:41:38.2797343Z",
+  "lastRefreshAttempt": "2021-09-05T14:52:41.4936515+01:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -1244,105 +1244,6 @@
       "dateInstalled": "2021-07-10T17:55:07.2673396Z",
       "dateUpdated": "2021-07-10T17:55:07.2673396Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 241665,
-      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
-      "installedFile": {
-        "id": 3385312,
-        "displayName": "Psi 1.16-95.jar",
-        "fileName": "Psi 1.16-95.jar",
-        "fileDate": "2021-07-11T21:12:00.583Z",
-        "fileLength": 2156517,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3385/312/Psi 1.16-95.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 306770,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2874628057,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "vazkii",
-            "fingerprint": 2110928581,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3470568502,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1845518264,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3603840603,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "psi.mixins.json",
-            "fingerprint": 803513124,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "psi.refmap.json",
-            "fingerprint": 1235671071,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3140514861,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Psi 1.16-95.jar"
-      },
-      "dateInstalled": "2021-09-03T21:41:18.3620919Z",
-      "dateUpdated": "2021-09-03T21:41:18.4161152Z",
-      "dateLastUpdateAttempted": "2021-09-03T21:41:18.4161152Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -3333,7 +3234,7 @@
       "dateInstalled": "2021-09-03T23:24:38.5424788Z",
       "dateUpdated": "2021-09-03T23:24:38.548481Z",
       "dateLastUpdateAttempted": "2021-09-03T23:24:38.548481Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3418,7 +3319,7 @@
       "dateInstalled": "2021-09-04T16:07:13.343395Z",
       "dateUpdated": "2021-09-04T16:07:13.3453932Z",
       "dateLastUpdateAttempted": "2021-09-04T16:07:13.3453932Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7624,121 +7525,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 324813,
-      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
-      "installedFile": {
-        "id": 3404863,
-        "displayName": "psipherals-1.4.1.jar",
-        "fileName": "psipherals-1.4.1.jar",
-        "fileDate": "2021-07-29T04:09:26.343Z",
-        "fileLength": 312039,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3404/863/psipherals-1.4.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 306770,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 309927,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 241665,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2165692823,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 1860168194,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3328380564,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 1956378387,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 162668265,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1934069148,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "psipherals.mixins.json",
-            "fingerprint": 926839123,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "psipherals.refmap.json",
-            "fingerprint": 2682443028,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 3411433534,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "psipherals-1.4.1.jar"
-      },
-      "dateInstalled": "2021-09-03T21:41:35.1246309Z",
-      "dateUpdated": "2021-09-03T21:41:35.1366308Z",
-      "dateLastUpdateAttempted": "2021-09-03T21:41:35.1366308Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 282313,
       "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
       "installedFile": {
@@ -7811,24 +7597,6 @@
       "dateInstalled": "2021-07-05T20:20:52.5069Z",
       "dateUpdated": "2021-07-05T20:20:52.5069Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 396405,
-      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
-      "installedFile": null,
-      "dateInstalled": "2021-09-03T21:41:52.004229Z",
-      "dateUpdated": "2021-09-03T21:41:52.0472266Z",
-      "dateLastUpdateAttempted": "2021-09-03T21:41:52.0472266Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -7998,7 +7766,7 @@
       "dateInstalled": "2021-09-04T16:06:38.8100866Z",
       "dateUpdated": "2021-09-04T16:06:38.8191138Z",
       "dateLastUpdateAttempted": "2021-09-04T16:06:38.8191138Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13758,121 +13526,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 515334,
-      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
-      "installedFile": {
-        "id": 3425206,
-        "displayName": "psionicolor-1.16.5-1.0.0.jar",
-        "fileName": "psionicolor-1.16.5-1.0.0.jar",
-        "fileDate": "2021-08-14T15:18:50.393Z",
-        "fileLength": 121267,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3425/206/psionicolor-1.16.5-1.0.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 71367064,
-            "addonId": 241665,
-            "type": 3,
-            "fileId": 3425206
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1117873447,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2209193641,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 3148395797,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "psionicolor_logo.png",
-            "fingerprint": 2229102080,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 260713725,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": ".cache",
-            "fingerprint": 1582900421,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1936052087,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 450712316,
-        "gameVersion": [
-          "1.16.5",
-          "Forge"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000016.0000000005",
-            "gameVersion": "1.16.5",
-            "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
-            "gameVersionName": "1.16.5"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Forge"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2455861,
-        "projectId": 515334,
-        "packageFingerprintId": 726000800,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3221529,
-        "gameVersionId": 7498,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "psionicolor-1.16.5-1.0.0.jar"
-      },
-      "dateInstalled": "2021-09-03T21:43:18.6860913Z",
-      "dateUpdated": "2021-09-03T21:43:18.6860913Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 365460,
       "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
       "installedFile": {
@@ -14313,7 +13966,7 @@
       "dateInstalled": "2021-09-04T16:06:07.1982871Z",
       "dateUpdated": "2021-09-04T16:06:07.2012847Z",
       "dateLastUpdateAttempted": "2021-09-04T16:06:07.2012847Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -17623,7 +17276,7 @@
       "dateInstalled": "2021-07-05T20:21:03.3631205Z",
       "dateUpdated": "2021-07-05T20:21:03.3631205Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -20782,7 +20435,7 @@
       "dateInstalled": "2021-09-04T16:06:23.7672173Z",
       "dateUpdated": "2021-09-04T16:06:23.7702183Z",
       "dateLastUpdateAttempted": "2021-09-04T16:06:23.7702183Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -23213,80 +22866,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 242998,
-      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
-      "installedFile": {
-        "id": 3385768,
-        "displayName": "silent-lib-1.16.5-4.10.0.jar",
-        "fileName": "silent-lib-1.16.5-4.10.0.jar",
-        "fileDate": "2021-07-12T07:14:40.323Z",
-        "fileLength": 234432,
-        "releaseType": 3,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3385/768/silent-lib-1.16.5-4.10.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2943005722,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 2764020506,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2777624399,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 308519523,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1561490368,
-        "gameVersion": [
-          "1.16.3",
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "silent-lib-1.16.5-4.10.0.jar"
-      },
-      "dateInstalled": "2021-09-04T23:00:06.995522Z",
-      "dateUpdated": "2021-09-04T23:00:07.0036508Z",
-      "dateLastUpdateAttempted": "2021-09-04T23:00:07.0036508Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 430906,
       "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
       "installedFile": {
@@ -23443,6 +23022,80 @@
       "dateInstalled": "2021-07-05T20:21:08.4624731Z",
       "dateUpdated": "2021-07-24T19:09:37.0404256Z",
       "dateLastUpdateAttempted": "2021-07-24T19:09:37.0404256Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 242998,
+      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
+      "installedFile": {
+        "id": 3385768,
+        "displayName": "silent-lib-1.16.5-4.10.0.jar",
+        "fileName": "silent-lib-1.16.5-4.10.0.jar",
+        "fileDate": "2021-07-12T07:14:40.323Z",
+        "fileLength": 234432,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3385/768/silent-lib-1.16.5-4.10.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2943005722,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2764020506,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2777624399,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 308519523,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1561490368,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "silent-lib-1.16.5-4.10.0.jar"
+      },
+      "dateInstalled": "2021-09-04T23:00:06.995522Z",
+      "dateUpdated": "2021-09-04T23:00:07.0036508Z",
+      "dateLastUpdateAttempted": "2021-09-04T23:00:07.0036508Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -24007,79 +23660,6 @@
       "dateUpdated": "2021-07-05T20:21:08.4334742Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 229595,
-      "gameInstanceID": "1b0c7254-f15c-4274-8e04-592422de7b2e",
-      "installedFile": {
-        "id": 3118780,
-        "displayName": "mdecore-1.16.4-16.1.0.jar",
-        "fileName": "mdecore-1.16.4-16.1.0.jar",
-        "fileDate": "2020-11-21T16:34:03.967Z",
-        "fileLength": 28917,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3118/780/mdecore-1.16.4-16.1.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1430412854,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 693922182,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3407709809,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1673111350,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1458132870,
-        "gameVersion": [
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "mdecore-1.16.4-16.1.0.jar"
-      },
-      "dateInstalled": "2021-09-04T16:08:47.1424718Z",
-      "dateUpdated": "2021-09-04T16:08:47.1454707Z",
-      "dateLastUpdateAttempted": "2021-09-04T16:08:47.1454707Z",
-      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -24858,7 +24438,7 @@
       "dateInstalled": "2021-08-04T21:39:34.9134975Z",
       "dateUpdated": "2021-08-05T20:52:54.7725611Z",
       "dateLastUpdateAttempted": "2021-08-05T20:52:54.7725611Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -26742,7 +26322,7 @@
       "dateInstalled": "2021-09-04T16:06:45.1599868Z",
       "dateUpdated": "2021-09-04T16:06:45.2030518Z",
       "dateLastUpdateAttempted": "2021-09-04T16:06:45.2030518Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -27031,7 +26611,7 @@
       "dateInstalled": "2021-09-04T16:05:53.1618332Z",
       "dateUpdated": "2021-09-04T16:05:53.1818374Z",
       "dateLastUpdateAttempted": "2021-09-04T16:05:53.1818374Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -29452,7 +29032,7 @@
       "dateInstalled": "2021-07-13T20:16:02.8369272Z",
       "dateUpdated": "2021-08-11T14:53:05.9697449Z",
       "dateLastUpdateAttempted": "2021-08-11T14:53:05.9697449Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -33798,7 +33378,7 @@
       "dateInstalled": "2021-09-04T23:00:09.2330759Z",
       "dateUpdated": "2021-09-04T23:00:09.2640759Z",
       "dateLastUpdateAttempted": "2021-09-04T23:00:09.2640759Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -33807,7 +33387,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 245755,
@@ -34465,7 +34045,7 @@
       "dateInstalled": "2021-09-04T16:35:00.2224788Z",
       "dateUpdated": "2021-09-04T16:35:00.2244781Z",
       "dateLastUpdateAttempted": "2021-09-04T16:35:00.2244781Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -34474,7 +34054,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 409087,
@@ -36078,7 +35658,7 @@
       "dateInstalled": "2021-09-04T16:06:03.68564Z",
       "dateUpdated": "2021-09-04T16:06:03.6896422Z",
       "dateLastUpdateAttempted": "2021-09-04T16:06:03.6896422Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -36792,7 +36372,7 @@
       "dateInstalled": "2021-09-04T16:06:34.9273788Z",
       "dateUpdated": "2021-09-04T16:06:34.9313797Z",
       "dateLastUpdateAttempted": "2021-09-04T16:06:34.9313797Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
