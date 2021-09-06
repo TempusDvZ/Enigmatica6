@@ -163,8 +163,6 @@ var itemsToHide = [
     'emendatusenigmatica:molten_copper_bucket',
     'emendatusenigmatica:molten_constantan_bucket',
     'emendatusenigmatica:molten_cobalt_bucket',
-    'emendatusenigmatica:molten_charged_certus_quartz_bucket',
-    'emendatusenigmatica:molten_certus_quartz_bucket',
     'emendatusenigmatica:molten_bronze_bucket',
     'emendatusenigmatica:molten_brass_bucket',
     'emendatusenigmatica:molten_aluminum_bucket',
@@ -308,7 +306,6 @@ ee_types.forEach((type) => {
         `emendatusenigmatica:cinnabar_${type}`,
         `emendatusenigmatica:bitumen_${type}`,
         `emendatusenigmatica:fluorite_${type}`,
-        `emendatusenigmatica:certus_quartz_${type}`,
         `emendatusenigmatica:quartz_${type}`,
         `emendatusenigmatica:redstone_${type}`,
         `emendatusenigmatica:lapis_${type}`,
@@ -342,8 +339,6 @@ const fluidsToHide = [
     'emendatusenigmatica:molten_copper',
     'emendatusenigmatica:molten_constantan',
     'emendatusenigmatica:molten_cobalt',
-    'emendatusenigmatica:molten_charged_certus_quartz',
-    'emendatusenigmatica:molten_certus_quartz',
     'emendatusenigmatica:molten_bronze',
     'emendatusenigmatica:molten_brass',
     'emendatusenigmatica:molten_aluminum',
@@ -448,8 +443,6 @@ var regexHide = [
     /eidolon:\w+_ore/,
     /byg:pendorite/,
     /byg:ametrine/,
-    /emendatusenigmatica:\w+certus/,
-    /emendatusenigmatica:\w+fluix/,
     /powah:\w+_starter/,
     /rftoolsbase:dimensionalshard_/,
     /theoneprobe:/,
@@ -625,5 +618,6 @@ const materialsToUnify = [
     'regalium',
     'utherium',
     'coal_coke',
-    'starmetal'
+    'starmetal',
+    'yellorium'
 ];
