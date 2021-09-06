@@ -1082,7 +1082,7 @@
 		#Range: 0 ~ 64
 		overworld_size = 8
 		#Activate/Deactivate the Ore Gen in The Overworld [Default: true]
-		generate_in_the_overworld = false
+		generate_in_the_overworld = true
 
 	["Certus Quartz Config"."The End"]
 		#Baseline Y-Level [Default: 52]
@@ -1147,7 +1147,7 @@
 		#Range: 0 ~ 64
 		overworld_size = 4
 		#Activate/Deactivate the Ore Gen in The Overworld [Default: true]
-		generate_in_the_overworld = false
+		generate_in_the_overworld = true
 
 	["Charged Certus Quartz Config"."The End"]
 		#Baseline Y-Level [Default: 36]
