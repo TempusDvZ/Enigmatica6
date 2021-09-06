@@ -7,6 +7,7 @@ onEvent('recipes', (event) => {
     event.replaceOutput({}, 'thermal:coal_coke', '#forge:gems/coal_coke');
     event.replaceOutput({}, 'thermal:sawdust', 'emendatusenigmatica:wood_dust');
     event.replaceOutput({}, 'refinedstorage:silicon', '#forge:gems/silicon');
+    event.replaceOutput({}, 'appliedenergistics2:silicon', '#forge:gems/silicon');
     event.replaceOutput({}, 'create:dough', 'farmersdelight:wheat_dough');
     event.replaceOutput({}, 'simplefarming:chocolate', 'create:bar_of_chocolate');
     event.replaceOutput({}, 'thermal:rubber', 'industrialforegoing:dryrubber');

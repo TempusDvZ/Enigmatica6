@@ -9,6 +9,7 @@ onEvent('recipes', (event) => {
     event.replaceInput({}, 'thermal:sawdust', 'emendatusenigmatica:wood_dust');
     event.replaceInput({}, 'architects_palette:withered_bone', '#forge:bones/wither');
     event.replaceInput({}, 'refinedstorage:silicon', '#forge:silicon');
+    event.replaceInput({}, 'appliedenergistics2:silicon', '#forge:silicon');
     event.replaceInput({}, 'refinedstorage:crafter', '#refinedstorage:crafter');
     event.replaceInput({}, 'betterendforge:thallasium_ore', '#forge:ores/thallasium');
     event.replaceInput({}, 'astralsorcery:starmetal_ore', '#forge:ores/starmetal');

@@ -1,0 +1,16 @@
+{
+    "#": "Based on the original recipe at https://github.com/AppliedEnergistics/Applied-Energistics-2/blob/8.4.x-1.16.x/src/main/resources/data/appliedenergistics2/recipes/inscriber/silicon_print.json",
+    "type": "appliedenergistics2:inscriber",
+    "mode": "inscribe",
+    "result": {
+        "item": "appliedenergistics2:printed_silicon"
+    },
+    "ingredients": {
+        "top": {
+            "item": "appliedenergistics2:silicon_press"
+        },
+        "middle": {
+            "tag": "forge:silicon"
+        }
+    }
+}

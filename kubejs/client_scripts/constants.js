@@ -103,6 +103,8 @@ var itemsToHide = [
     'aiotbotania:livingwood_shears',
     'aiotbotania:livingrock_shears',
 
+    'appliedenergistics2:silicon',
+
     'ars_nouveau:arcane_brick',
     'ars_nouveau:arcane_ore',
     'ars_nouveau:mana_gem_block',
