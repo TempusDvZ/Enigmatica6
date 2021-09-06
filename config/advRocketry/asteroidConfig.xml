@@ -17,4 +17,14 @@
 		<ore itemStack="libvulpes:ore0;0" chance="20" />
 		<ore itemStack="minecraft:emerald_ore" chance="5" />
 	</asteroid>
+	<asteroid name="RGB" distance="100" mass="3000" massVariability="0.2" minLevel="0" richness="0.5" richnessVariability="0.2" probability="23" timeMultiplier="1.4">
+		<ore itemStack="minecraft:redstone_ore" chance="30" />
+		<ore itemStack="minecraft:lapis_ore" chance="20" />
+		<ore itemStack="minecraft:emerald_ore" chance="5" />
+	</asteroid>
+	<asteroid name="Quartzite" distance="100" mass="3000" massVariability="0.3" minLevel="0" richness="0.8" richnessVariability="0.1" probability="17" timeMultiplier="1.3">
+		<ore itemStack="minecraft:quartz_ore" chance="30" />
+		<ore itemStack="appliedenergistics2:quartz_ore" chance="30" />
+		<ore itemStack="appliedenergistics2:charged_quartz_ore" chance="2" />
+	</asteroid>
 </Asteroids>
