@@ -20,7 +20,24 @@ onEvent('jei.hide.items', (event) => {
             'eidolon:ingot_' + material,
             'eidolon:nugget_' + material,
             'eidolon:block_' + material,
-            'thermal:' + material + '_block'
+            'thermal:' + material + '_block',
+            'appliedenergistics2:' + material.replace('certus_', '') + '_ore',
+            'appliedenergistics2:' + material + '_crystal',
+            'appliedenergistics2:' + material + '_dust',
+            'appliedenergistics2:' + material.replace('certus_', '') + '_block',
+            'biggerreactors:' + material + '_ingot',
+            'biggerreactors:' + material + '_dust',
+            'biggerreactors:' + material + '_block',
+            'biggerreactors:' + material.replace('um', 'te') + '_ore',
+            'tmechworks:' + material + '_ore',
+            'tmechworks:' + material + '_block',
+            'tmechworks:' + material + '_ingot',
+            'tmechworks:' + material + '_nugget',
+            'silents_mechanisms:' + material + '_ore',
+            'silents_mechanisms:' + material + '_block',
+            'silents_mechanisms:' + material + '_dust',
+            'silents_mechanisms:' + material + '_ingot',
+            'silents_mechanisms:' + material + '_nugget'
         );
     });
 
