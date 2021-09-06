@@ -2,20 +2,21 @@
 # In the format @("filename", "filename")
 $CLIENT_MODS_TO_REMOVE_FROM_SERVER_FILES = @(
 	"connectivity"
-	"Ding", 
+	"Ding",
 	"EntityCulling",
-	"ReAuth", 
+	"ReAuth",
 	"moreoverlays",
-	"Neat", 
-	"Toast-Control", 
-	"PackMenu"
+	"Neat",
+	"Toast-Control",
+	"PackMenu",
+	"DynamicSurroundings"
 )
 
 if (Test-Path "mods" -PathType Container) {
 	$modFolder = "mods"
 }
 elseif (Test-Path "$PSScriptRoot/mods" -PathType Container) {
-	$modFolder = "$PSScriptRoot/mods"	
+	$modFolder = "$PSScriptRoot/mods"
 }
 else {
 	Write-Host "Unable to find the mods folder, no client mods will be removed." -ForegroundColor Red
